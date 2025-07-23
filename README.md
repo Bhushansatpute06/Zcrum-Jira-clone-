@@ -24,6 +24,8 @@ A modern, production-ready **Jira Clone** built using **Next.js**, **React**, **
 - 📁 Modular & Scalable Folder Structure
 - 🎨 Beautiful UI with Shadcn Components
 
+- Live Link - https://zcrum-jira-clone-eight.vercel.app/
+
 ---
 
 ## ⚙️ Setup Instructions
